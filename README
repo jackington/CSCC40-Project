@@ -1,2 +1,10 @@
+*** Accessing Drupal Site
 Install Apache web server, MySQL, phpmyAdmin.  
 Although we recommend you install XAMPP, as it will install all necessary software. 
+
+*** Accessing the site on Wall.fm
+Browse to www.tutornation.wall.fm
+To login with admin priveleges, login with the following credentials:
+username: jackington
+password: uWApuPEMub
+
